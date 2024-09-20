@@ -18,6 +18,8 @@ A simple and responsive news web application that allows users to search for new
 ## Installation
 
 Install vite react using tailwind css and then copy my code as same as directory 
+## Working
+https://github.com/user-attachments/assets/9cc0aaec-c6f8-4b8c-be39-2c46d2189ef3
 
 ## Note 
 Change api key to your own api key 
